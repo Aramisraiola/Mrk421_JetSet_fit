@@ -6,7 +6,7 @@ These four selected epochs SED fits of the blazar Markarian 421 were prepared us
 The Astrophysical Journal (2016)<i>
 
  
-The analysis was made with JetSet framework in order to complete the report that will be soon published in the repository. 
+The analysis was made with JetSet framework in order to complete a report that will be soon published in the repository. 
 
 
   
