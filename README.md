@@ -16,3 +16,6 @@ In every folder it is possible to find:
   <li>The prefit as a .pkl file </li>
   <li>The data to be fit as a .ecsv file. </li>
 </ul>
+
+![alt text](https://en.wikipedia.org/wiki/Markarian_421#/media/File:SDSS_Mrk_421.jpg)
+
