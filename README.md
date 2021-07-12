@@ -14,5 +14,5 @@ In every folder it is possible to find:
 <ul>
   <li>The main code, as a jupyter notebook; </li>
   <li>The prefit as a .pkl file </li>
-  <li>The data to be fit as a .txt file. </li>
+  <li>The data to be fit as a .ecsv file. </li>
 </ul>
